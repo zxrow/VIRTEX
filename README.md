@@ -13,7 +13,7 @@ apt install ruby
 
 gem install lolcat
 
-git clone https://github.com/muhammadfathul/VIRTEX
+git clone https://github.com/Mr-xDODOL/VIRTEX
 
 cd VIRTEX
 
