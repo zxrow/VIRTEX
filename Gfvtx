@@ -1,0 +1,2 @@
+termux-setup-storage
+mv namafile.txt /sdcard
